@@ -1,0 +1,17 @@
+name: CI Keisha
+
+on: [push]
+
+jobs:developer
+  build:web design
+
+    runs-on: ubuntu-latest
+
+    steps:6
+    - uses: pixiipii01@outlook.com
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: GitHub
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
